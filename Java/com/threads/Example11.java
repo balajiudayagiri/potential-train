@@ -16,9 +16,9 @@ public class Example11 extends Thread {
 		System.out.println("Priority of objExample112 : " + objExample112.getPriority());
 		System.out.println("Priority of objExample113 : " + objExample113.getPriority());
 
-		objExample111.setPriority(MAX_PRIORITY);
-		objExample112.setPriority(MIN_PRIORITY);
-		objExample113.setPriority(NORM_PRIORITY);
+		objExample111.setPriority(MAX_PRIORITY);//10
+		objExample112.setPriority(MIN_PRIORITY);//1
+		objExample113.setPriority(NORM_PRIORITY);//5
 
 		System.out.println("Priority of objExample111 After setting priority : " + objExample111.getPriority());
 		System.out.println("Priority of objExample112 After setting priority : " + objExample112.getPriority());
