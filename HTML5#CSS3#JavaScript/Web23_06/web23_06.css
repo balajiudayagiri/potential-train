@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@900&family=Ubuntu:wght@700&display=swap');
+
+.navbar,.accordion{
+    padding: 0px 60px;
+}
+#navbar-font{
+   font-family:'Ubuntu', sans-serif;
+}
+
+.nav-p{
+    padding-left:700px;
+} 
+.nav-item{
+    padding: 0px 30px;
+}
+.bcolor,.card,.productbody{
+    background-color: rgb(102,102,102);
+}
+.phone-img,.product-img{
+    transform: rotate(25deg);
+}
+.phone-text{
+    padding-top: 200px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#fff;
+}
+.col{
+    padding-top: 1.3rem;
+}
+.bbox,.card{
+    padding-top: 1rem;
+}
+.ccolor{
+    background-color: #fff;
+}
+.cbox{
+    padding: 100px 12px;
+}
+.citem{
+    text-align: center;
+}
+.cp{
+    padding-top: 1.3rem;
+}
+
+.featurs-d{
+    text-align: center;
+    background-color: rgb(160, 158, 158);
+    padding: 30px
+}
+.d-item{
+    padding: 50px;
+}
+.d-text{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: x-large;
+    font-weight: 300;
+    color: #fff;
+    display: inline-block;
+}
+.bi{
+    transform: rotate(-30deg);
+}
+.footer-d{
+    background-color: #212529;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: -21px;
+    
+}
+.social-d{
+    display: inline;
+    padding-bottom: 25px;
+}
+.card{
+    align-items: center;
+}
+.bi-twitter{
+    color: #fff;
+}
+.so-d{
+    display: inline;
+    padding: 20px;
+    text-decoration: none;
+    color: #fff;
+}
+.copy-rights{
+    padding-top: 2rem;
+    font-size: x-small;
+}
+.accordion{
+    padding-bottom: 200px;
+}
